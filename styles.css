@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NotoKufiArabic';
+    src: url('https://raw.githubusercontent.com/Selloston/PapersPlease/main/NotoKufiArabic-VariableFont_wght.ttf') format('truetype');
+}
+
+body {
+    font-family: 'NotoKufiArabic', sans-serif;
+    text-align: right; /* لضبط النص العربي */
+}
