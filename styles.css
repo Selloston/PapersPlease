@@ -1,11 +1,2 @@
-@font-face {
-    font-family: 'NotoKufiArabic';
-    src: url('https://raw.githubusercontent.com/Selloston/PapersPlease/main/NotoKufiArabic-VariableFont_wght.ttf') format('truetype');
-}
-
-.font-propaganda { font-family: 'NotoKufiArabic'; font-size: 10px; line-height: 10px; }
-
-* {
-    font-family: 'NotoKufiArabic', sans-serif;
-    font-size: 10px;
-}
+@font-face { font-family: 'tiny'; src: url('../fonts/MiniKylie-U--misaki_gothic.ttf'); }
+.font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
