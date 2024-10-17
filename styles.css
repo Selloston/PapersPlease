@@ -24,6 +24,11 @@ img {
     overflow-wrap: break-word;
 }
 
+html[lang="ar"] {
+    direction: rtl;
+    text-align: right;
+}
+
 
 pre {
 	font-size: 12pt;
