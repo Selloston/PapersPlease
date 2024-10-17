@@ -14,9 +14,8 @@ img {
 }
 
 * {
-    font-family: 'Cairo', sans-serif; /* استخدام الخط */
-    font-size: 12px; /* حجم الخط */
-    line-height: 1.5; /* ارتفاع السطر */
+    font-family: 'Amiri', serif; /* استخدام خط Amiri */
+    font-size: 25px; /* حجم الخط */
 }
 
 
