@@ -5,6 +5,7 @@
 
 .font-propaganda { font-family: 'NotoKufiArabic'; font-size: 10px; line-height: 10px; }
 
-body {
+* {
     font-family: 'NotoKufiArabic', sans-serif;
+    font-size: 10px;
 }
