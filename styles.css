@@ -14,12 +14,13 @@ img {
 }
 
 * {
-    font-family: 'Cairo', sans-serif;
+    font-family: 'Cairo', 'Arial', sans-serif; /* Arial كخط احتياطي */
     font-smooth: never;
     -webkit-font-smoothing: none;
     -moz-osx-font-smoothing: none;
     text-rendering: optimizeSpeed !important;
 }
+
 
 
 pre {
