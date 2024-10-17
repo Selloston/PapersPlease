@@ -14,13 +14,10 @@ img {
 }
 
 * {
-    font-family: sans-serif; /* Arial كخط احتياطي */
-    font-smooth: never;
-    -webkit-font-smoothing: none;
-    -moz-osx-font-smoothing: none;
-    text-rendering: optimizeSpeed !important;
+    font-family: 'Cairo', sans-serif; /* استخدام الخط */
+    font-size: 12px; /* حجم الخط */
+    line-height: 1.5; /* ارتفاع السطر */
 }
-
 
 
 pre {
