@@ -17,11 +17,6 @@ img {
     font-family: 'Amiri', 'Cairo', 'Noto Sans Arabic', sans-serif;
 }
 
-html[lang="ar"] {
-    direction: rtl;
-    text-align: right;
-}
-
 
 pre {
 	font-size: 12pt;
