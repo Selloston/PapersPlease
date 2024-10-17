@@ -3,6 +3,7 @@
     src: url('https://raw.githubusercontent.com/Selloston/PapersPlease/main/NotoKufiArabic-VariableFont_wght.ttf') format('truetype');
 }
 
-body {
+* {
     font-family: 'NotoKufiArabic', sans-serif;
+     font-size: 16px;
 }
