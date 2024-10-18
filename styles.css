@@ -1,2 +1,2 @@
-@font-face { font-family: 'title_thick'; src: url('../fonts/ChixaDemiBold--shnmk12b.ttf'); }
+@font-face { font-family: 'title_thick'; src: url('https://github.com/Selloston/PapersPlease/blob/main/NotoKufiArabic-VariableFont_wght.ttf'); }
 .font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
