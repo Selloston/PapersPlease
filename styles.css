@@ -1,2 +1,5 @@
-@font-face { font-family: 'tiny'; src: url('../fonts/MiniKylie-U--misaki_gothic.ttf'); }
-.font-tiny { font-family: 'tiny'; font-size: 8px; line-height: 8px; }
+* {
+    font-family: 'Amiri', serif;
+    direction: rtl;
+    unicode-bidi: embed;
+}
