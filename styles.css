@@ -1,2 +1,8 @@
-@font-face { font-family: 'title_thick'; src: url('https://github.com/Selloston/PapersPlease/blob/main/NotoKufiArabic-VariableFont_wght.ttf'); }
-.font-title_thick { font-family: 'title_thick'; font-size: 14px; line-height: 11px; }
+/* styles.css */
+.noto-sans-arabic-custom {
+    font-family: "Noto Sans Arabic", serif;
+    font-optical-sizing: auto;
+    font-weight: 400; /* يمكنك اختيار وزن بين 100 و 900 */
+    font-style: normal;
+    font-variation-settings: "wdth" 100; /* عرض الخط */
+}
